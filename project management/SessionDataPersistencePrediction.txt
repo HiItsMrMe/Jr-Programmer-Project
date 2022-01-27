@@ -1,0 +1,8 @@
+A file needs to be created by MainManager to store the data in
+
+The currently selected button needs to be written to the created file
+	This should happen in the NewColorSelected 
+
+On startup the stored button needs to be flipped to selected. This should also be done by MainManager
+
+If I need help I can visit DDG and Youtube
